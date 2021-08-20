@@ -6,3 +6,6 @@ impersonate and whiper in chat, instant kill + ignite other players,
 guarantee one click instant build,
 spawn death bunny to crash the server.
 
+
+The DLL itself is a source code, because the game engine is Unity lol.
+
